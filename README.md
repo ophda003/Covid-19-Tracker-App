@@ -11,6 +11,8 @@ This is a modified version of the project (https://github.com/adrianhajdin/proje
 
 A COVID-19 tracker app that show the current state of pandemic globally and specifically to each country. The stats include the number of Infected, Active, Recoverd, Death cases along with percent of Recovered to Death cases. The app also provide a line chart including the number of infected and death paitents which are arranged chronically from the beginning of pandemic to the current date. 
 
+![](src/images/screenshot.png)
+
 
 
 
