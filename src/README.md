@@ -1,1 +1,1 @@
-![](src/images/screenshot.png)
+![](./images/screenshot.png)
